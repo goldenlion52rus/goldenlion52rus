@@ -27,8 +27,3 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=goldenlion52rus&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goldenlion52rus&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-### :writing_hand: Blog Posts :
-<!-- BLOG-POST-LIST:START -->
-- [test](https://dev.to/goldenlion52rus/test-471a)
-<!-- BLOG-POST-LIST:END -->
