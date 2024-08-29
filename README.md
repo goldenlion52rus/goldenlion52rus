@@ -27,3 +27,5 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=goldenlion52rus&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goldenlion52rus&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=goldenlion52rus&theme=gotham)](https://github.com/ashutosh00710/github-readme-activity-graph)
