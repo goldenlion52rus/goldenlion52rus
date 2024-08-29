@@ -30,5 +30,5 @@
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
-
+- [test](https://dev.to/goldenlion52rus/test-471a)
 <!-- BLOG-POST-LIST:END -->
